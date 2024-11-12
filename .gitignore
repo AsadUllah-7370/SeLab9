@@ -1,0 +1,23 @@
+# Node modules for both projects
+ecommerce-frontend/node_modules
+<other-project-folder>/node_modules
+
+# Build output for both projects
+ecommerce-frontend/build
+<other-project-folder>/build
+
+# Logs
+ecommerce-frontend/npm-debug.log*
+<other-project-folder>/npm-debug.log*
+ecommerce-frontend/yarn-debug.log*
+<other-project-folder>/yarn-debug.log*
+ecommerce-frontend/yarn-error.log*
+<other-project-folder>/yarn-error.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+ecommerce-frontend/.env
+<other-project-folder>/.env
